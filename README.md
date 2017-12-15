@@ -6,4 +6,3 @@ Licensed under GNU GENERAL PUBLIC License, see [LICENSE](https://github.com/RedW
 for details.
 ## Homepage
 Homepage: https://gamemaker3d.com
-## 
