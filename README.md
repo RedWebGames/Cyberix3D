@@ -7,5 +7,18 @@ Licensed under GNU [GENERAL PUBLIC LICENSE](https://github.com/RedWebGames/Cyber
 Homepage: www.gamemaker3d.com
 ## Examples
 ## Credits
-People Have Helped With Developing Cyberix3D
+Urho3D development, contributions and bugfixes by:
+- Lasse Öörni
+- Wei Tjong Yao
+- Aster Jian
+- Ricardo Abreu
+- Vivienne Anthony
+- Christopher Augustus
+- Colin Barrett
+- Erik Beran
+- Gauthier Billot
+- Loic Blot
+- Danny Boisvert
+- Sergey Bosko
+
 ##
