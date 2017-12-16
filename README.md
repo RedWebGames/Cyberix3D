@@ -5,5 +5,5 @@ Cyberix3D is a Open Source HTML5 3D Game Engine based off the [Urho3D Game Engin
 Licensed under GNU GENERAL PUBLIC LICENSE, see [LICENSE](https://github.com/RedWebGames/Cyberix3D/blob/RedWebGames-patch-1/LICENSE)
 for details.
 ## Homepage
-Homepage: https://gamemaker3d.com
+Homepage: www.gamemaker3d.com
 ## 
