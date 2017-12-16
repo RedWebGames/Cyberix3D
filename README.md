@@ -9,4 +9,4 @@ Cyberix3D development, by:
 - Cyberix3D
 - RedWebGames
 ## License
-Licensed under GNU [GENERAL PUBLIC LICENSE](https://github.com/RedWebGames/Cyberix3D/blob/RedWebGames-patch-1/LICENSE).
+Licensed under [GNU GENERAL PUBLIC LICENSE](https://github.com/RedWebGames/Cyberix3D/blob/RedWebGames-patch-1/LICENSE).
