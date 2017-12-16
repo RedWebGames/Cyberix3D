@@ -7,6 +7,7 @@ Licensed under GNU [GENERAL PUBLIC LICENSE](https://github.com/RedWebGames/Cyber
 Homepage: www.gamemaker3d.com
 ## Examples
 ## Credits
- -Cyberix3D Team
- -RedWebGames
+People Have Helped With Developing Cyberix3D
+-Cyberix3D
+-RedWebGames
 ##
