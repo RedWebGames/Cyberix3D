@@ -9,7 +9,7 @@ Homepage: www.gamemaker3d.com
 - RedWebGames
 - guya
 ## Keep Updated
-Cyberix Community Channel: https://www.youtube.com/channel/UCyg-Q4FEaUaz5zOt75_doFw
+Cyberix3D Community Channel: https://www.youtube.com/channel/UCyg-Q4FEaUaz5zOt75_doFw
 ## License
 Licensed under [GNU GENERAL PUBLIC LICENSE](https://github.com/RedWebGames/Cyberix3D/blob/RedWebGames-patch-1/LICENSE).
 ![GNU Logo](https://github.com/RedWebGames/Cyberix3D/blob/RedWebGames-patch-1/1200px-GPLv3_Logo.svg.png)
