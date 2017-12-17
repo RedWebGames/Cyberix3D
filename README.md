@@ -40,7 +40,7 @@ Homepage: www.Cyberix3D.com
 -
 -
 ## Keep Updated
-Cyberix3D Community Channel: https://www.youtube.com/channel/UCyg-Q4FEaUaz5zOt75_doFw
+[Cyberix3D Community Channel:](https://www.youtube.com/channel/UCyg-Q4FEaUaz5zOt75_doFw)
 ## Credits
 - Cyberix3D Team
 - RedWebGames
