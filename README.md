@@ -27,7 +27,7 @@ Homepage: www.Cyberix3D.com
 [Cyberix3D Community Channel](https://www.youtube.com/channel/UCyg-Q4FEaUaz5zOt75_doFw)
 ## Credits
 - Cyberix3D Team
-- RedWebGames
+- RedWebGames/G-Web
 - guya
 ## License
 Licensed under [GNU GENERAL PUBLIC LICENSE](https://github.com/RedWebGames/Cyberix3D/blob/RedWebGames-patch-1/LICENSE).
