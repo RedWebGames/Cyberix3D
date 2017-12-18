@@ -27,12 +27,3 @@ Homepage: www.Cyberix3D.com
 ## License
 Licensed under [GNU GENERAL PUBLIC LICENSE](https://github.com/RedWebGames/Cyberix3D/blob/master/LICENSE).
 ![GNU Logo](https://github.com/RedWebGames/Cyberix3D/blob/RedWebGames-patch-1/1200px-GPLv3_Logo.svg.png)
-<!DOCTYPE html>
-<html>
-  <head>
-    <h2>html_test1</h2>
-  </head>
-  <body>
-    <h2>html_test2</h2>
-  </body>
-  </html>
