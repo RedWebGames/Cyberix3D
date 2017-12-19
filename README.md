@@ -10,50 +10,50 @@ Homepage: www.Cyberix3D.com
 -
 -
 ## Features
-File Formats
--.fbx
--.dae
--.gltf
--.glb
--.blend
--.3ds
--.ase
--.obj
--.ifc
--.xgl
--.zgl
--.ply
--.dfx
--.lwo
--.lws
--.lxo
--.stl
--.x
--.ms3d
--.cob
--.scn
--.bvh
--.irrmesh
--.irr
--.mdl
--.md2
--.md3
--.pk3
--.mdc
--.md5
--.smd
--.vta
--.ogex
--.3d
--.b3d
--.q3d
--.q3s
--.nff
--.off
--.raw
--.ter
--.hmp
--.ndo
+## File Formats
+- fbx
+- dae
+- gltf
+- glb
+- blend
+- 3ds
+- ase
+- obj
+- ifc
+- xgl
+- zgl
+- ply
+- dfx
+- lwo
+- lws
+- lxo
+- stl
+- x
+- ms3d
+- cob
+- scn
+- bvh
+- irrmesh
+- irr
+- mdl
+- md2
+- md3
+- pk3
+- mdc
+- md5
+- smd
+- vta
+- ogex
+- 3d
+- b3d
+- q3d
+- q3s
+- nff
+- off
+- raw
+- ter
+- hmp
+- ndo
 ## exports
 -
 -
