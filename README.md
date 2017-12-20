@@ -56,10 +56,8 @@ Homepage: www.Cyberix3D.com
 - ndo
 ## exports
 - windows-exe
-- 
--
--
--
+- Andriod-apk
+- Html5
 ## Some Minor Things
 - Navigation
 - High Quality Shadows
