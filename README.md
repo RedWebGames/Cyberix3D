@@ -3,6 +3,8 @@
 Cyberix3D is a Open Source HTML5 3D Game Engine based off the [Urho3D Game Engine](https://urho3d.github.io/).
 ## Homepage
 Homepage: www.Cyberix3D.com
+## Wiki
+Wiki: http://wiki.gamemaker3d.com/start
 ## Examples
 -
 -
