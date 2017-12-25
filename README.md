@@ -64,9 +64,6 @@ Wiki: http://wiki.gamemaker3d.com
 - Navigation
 - High Quality Shadows
 - Particle Emmiter
--
--
--
 ## Keep Updated
 [Cyberix3D Community Channel](https://www.youtube.com/channel/UCyg-Q4FEaUaz5zOt75_doFw)
 ## Credits
