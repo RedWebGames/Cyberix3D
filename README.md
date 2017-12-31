@@ -12,4 +12,4 @@ You can start playing with it by following the next steps
 
 You can download Visual Studio Community 2017 for free from this link
 https://www.visualstudio.com/downloads
-You also need to install Visual C++, and ALT.
+You also are required to install Visual C++, and ALT.
