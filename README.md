@@ -10,5 +10,5 @@ You can start playing with it by following the next steps
 3. Select the startup project from one of the examples on the right side by pressing right click + set as startup project
 4. Run the project with F5
 
-You can download Visual Studio Cummunity 2017 for free from this link
+You can download Visual Studio Community 2017 for free from this link
 https://www.visualstudio.com/downloads
