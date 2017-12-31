@@ -69,7 +69,7 @@ Wiki: http://wiki.gamemaker3d.com (Open Source)
 [Cyberix3D Community Channel](https://www.youtube.com/channel/UCyg-Q4FEaUaz5zOt75_doFw)
 ## Credits
 - Cyberix3D Team
-- RedWebGames/G-Web
+- RedWebGames/G-WeB-C3D
 - Guya
 ## License
 Licensed under [GNU GENERAL PUBLIC LICENSE](https://github.com/RedWebGames/Cyberix3D/blob/master/LICENSE).
