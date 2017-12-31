@@ -1,5 +1,5 @@
 # Github-Formating-Syntax
-Hello, Cyberix3D community! this is a branch that is ment to teach you the Formating Syntax of Github so you can help with the Cyberix3D Github Branch.
+Hello, Cyberix3D community! this is a branch that is meant to teach you the Formating Syntax of Github so you can help with the Cyberix3D Github Branch.
 
 ## Headings
 
