@@ -11,3 +11,5 @@ https://www.visualstudio.com/downloads, you also are required to install Visual 
 3. Open the file C:\Urho3D-1_7-Cyberix3D\vs2017\Urho3D.sln   if Visual Studios is already installed this will appear as a project not .sln
 4. Select the startup project from one of the examples on the right side by pressing right click + set as startup project
 5. Run the project with F5
+
+Now you are all set, you can now view the game examples of what the new Cyberix3D engine will be able to do.
