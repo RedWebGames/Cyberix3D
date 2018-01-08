@@ -63,6 +63,10 @@ Wiki: http://wiki.gamemaker3d.com (Open Source)
 - Html5
 ## Keep Updated
 [Cyberix3D Community Channel](https://www.youtube.com/channel/UCyg-Q4FEaUaz5zOt75_doFw)
+## Want To Contribute?
+* Donate
+* Help on Github
+* Help with the wiki
 ## Credits
 - Cyberix3D Team
 - RedWebGames/G-WeB-C3D
