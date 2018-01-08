@@ -1,6 +1,8 @@
 # Cyberix3D
 Cyberix3D - 3D Game maker
 
+Hello, this is Cyberix3D.  Cyberix3D is a 3D game engine that allows you to create your own video games.  Cyberix3D is currently running on Adobe Flash.
+
 Here is the Urho3D 1.7 engine that will be used to build Cyberix3D [click here](https://drive.google.com/file/d/1iYF743XmjE3xtIZHiphB09kVyFbJtnyz/view?usp=sharing),
 We have also included a VS 2017 project with all the examples inside.
 You can start playing with it by following the next steps.
