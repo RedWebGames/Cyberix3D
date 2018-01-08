@@ -61,10 +61,6 @@ Wiki: http://wiki.gamemaker3d.com (Open Source)
 - windows-exe
 - Andriod-apk
 - Html5
-## Some Minor Things
-- Navigation
-- High Quality Shadows
-- Particle Emmiter
 ## Keep Updated
 [Cyberix3D Community Channel](https://www.youtube.com/channel/UCyg-Q4FEaUaz5zOt75_doFw)
 ## Credits
