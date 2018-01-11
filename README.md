@@ -14,6 +14,8 @@ Here is how you install the engine.
 Homepage: www.Cyberix3D.com
 ## Wiki
 Wiki: http://wiki.gamemaker3d.com (Open Source)
+
+The Cyberix3D wiki helps you learn h
 ## Examples
 ###### (Currently No Examples Available)
 -
