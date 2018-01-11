@@ -10,9 +10,11 @@ Here is how you install the engine.
  * step 3: Unzip the engine to anywhere you want. (unzip to c: is recommended)
  * step 4: go to \Urho3D-1_7-Cyberix3D\vs2017\Urho3D.sln and open "Urho3D.sln" in Visual Studios.
  * step 5: Select the startup project from one of the examples on the right side by pressing right click + set as startup project then click "F5" to run the projects.
-## Homepage
-Homepage: www.Cyberix3D.com
-## Wiki
+## Cyberix3D website
+Website: www.Cyberix3D.com
+
+The Cyberix3D website contains the original Adobe Flash Cyberix3D engine and forums, games, blogs, and more!
+## Cyberix3D Wiki
 Wiki: http://wiki.gamemaker3d.com (Open Source)
 
 The Cyberix3D wiki helps you learn how to use the Cyberix3D engine (Adobe Flash Version).  This wiki is also open source so you can help build the Cyberix3D Wiki.  You can visit the wiki here http://wiki.gamemaker3d.com/editor:start
