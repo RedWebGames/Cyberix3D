@@ -74,6 +74,8 @@ The Cyberix3D wiki helps you learn how to use the Cyberix3D engine (Adobe Flash 
 - Html5
 ## Keep Updated
 [Cyberix3D Community Channel](https://www.youtube.com/channel/UCyg-Q4FEaUaz5zOt75_doFw)
+
+Here on the Cyberix3D Community Channel, the community uploads tutorials, news, reviews, and more!
 ## Want To Contribute?
 * Donate
 * Help on Github
