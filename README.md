@@ -8,7 +8,8 @@ Here is how you install the engine.
  
  * Step 2: click on the google drive link to download the engine.
  * step 3: Unzip the engine to C: (you can unzip anywhere you want but we will be using C:)
- * step 4: go to c:\Urho3D-1_7-Cyberix3D\vs2017\Urho3D.sln and open "Urho3D.sln" in Visual Studios.
+ * step 4: go to c:\Urho3D-1_7-Cyberix3D\vs2017\Urho3D.sln and open "Urho3D.sln" in Visual Studios, the project will be a icon instead of ".sln" if you have Visual Studios Community already installed.
+ 
  * step 5: Select the startup project from one of the examples on the right side by pressing right click + set as startup project then click "F5" to run the projects.
 ## Cyberix3D website
 Website: www.Cyberix3D.com
