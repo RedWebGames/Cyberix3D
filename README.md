@@ -15,7 +15,7 @@ Homepage: www.Cyberix3D.com
 ## Wiki
 Wiki: http://wiki.gamemaker3d.com (Open Source)
 
-The Cyberix3D wiki helps you learn h
+The Cyberix3D wiki helps you learn how to use the Cyberix3D engine (Adobe Flash Version).  This wiki is also open source so you can help build the Cyberix3D Wiki.  You can visit the wiki here http://wiki.gamemaker3d.com/editor:start
 ## Examples
 ###### (Currently No Examples Available)
 -
