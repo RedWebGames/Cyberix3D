@@ -12,7 +12,7 @@ Here is how you install the engine.
  
  * step 5: Select the startup project from one of the examples on the right side by pressing right click + set as startup project then click "F5" to run the projects.
 ## Cyberix3D website
-Website: www.Cyberix3D.com
+Website: www.Cyberix3D.com or www.gamemaker3d.com
 
 The Cyberix3D website contains the original Adobe Flash Cyberix3D engine and forums, games, blogs, and more!
 ## Cyberix3D Wiki
