@@ -31,9 +31,9 @@ The Cyberix3D wiki helps you learn how to use the Cyberix3D engine (Adobe Flash 
 
 Here on the Cyberix3D Community Channel, the community uploads tutorials, news, reviews, and more!
 ## Want To Contribute?
-* You can [Donate](http://www.gamemaker3d.com/donate)
-* Help on [Github](https://github.com/cyberix3d/Cyberix3D)
-* Help with the [Cyberix3D Wiki](http://wiki.gamemaker3d.com/editor:start)
+* You can [Donate](http://www.gamemaker3d.com/donate) to help the Cyberix3D team.
+* Help on [Github](https://github.com/cyberix3d/Cyberix3D) to help rebuild the Cyberix3D Engine.
+* Help with the [Cyberix3D Wiki](http://wiki.gamemaker3d.com/editor:start) to help developers learn the Cyberix3D Engine.
 ## Credits
 - Cyberix3D Team
 - RedWebGames/G-WeB-C3D- Tino Whitehawk
