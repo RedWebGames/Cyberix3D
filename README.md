@@ -18,7 +18,7 @@ The Cyberix3D website contains the original Adobe Flash Cyberix3D engine and for
 ## Cyberix3D Wiki
 Wiki: http://wiki.gamemaker3d.com (Open Source)
 
-The Cyberix3D wiki helps you learn how to use the Cyberix3D engine (Adobe Flash Version).  This wiki is also open source so you can help build the Cyberix3D Wiki.  You can visit the wiki here http://wiki.gamemaker3d.com/editor:start
+The Cyberix3D wiki helps you learn how to use the Cyberix3D engine (Adobe Flash Version).  This wiki is also open source so you can help build the Cyberix3D Wiki.
 ## Examples
 ###### (Currently No Examples Available)
 -
