@@ -11,6 +11,8 @@ Here is how you install the engine.
  * step 4: go to c:\Urho3D-1_7-Cyberix3D\vs2017\Urho3D.sln and open "Urho3D.sln" in Visual Studios, the project will be a icon instead of ".sln" if you have Visual Studios Community already installed.
  
  * step 5: Select the startup project from one of the examples on the right side by pressing right click + set as startup project then click "F5" to run the projects.
+ 
+ When we finish the engine core we will post it on our branch, but for now you can use the Urho3D engine or our original adobe flash [Cyberix3D engine](www.gamemaker3d.com).
 ## Cyberix3D website
 Website: www.Cyberix3D.com or www.gamemaker3d.com
 
