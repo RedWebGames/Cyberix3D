@@ -39,7 +39,7 @@ Here on the Cyberix3D Community Channel, the community uploads tutorials, news, 
 * Help with the [Cyberix3D Wiki](http://wiki.gamemaker3d.com/editor:start) to help developers learn the Cyberix3D Engine.
 ## Credits
 - Cyberix3D Team
-- RedWebGames/G-WeB-C3D- Tino Whitehawk
+- Tino Whitehawk (RedWebGames/G-WeB-C3D)
 - Guya
 ## License
 Licensed under [GNU GENERAL PUBLIC LICENSE](https://github.com/RedWebGames/Cyberix3D/blob/master/LICENSE).
