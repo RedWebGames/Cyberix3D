@@ -13,7 +13,7 @@ And see the features list and roadmap here:
 https://github.com/cyberix3d/Cyberix3D/wiki
 ## Download
 Here's the download link for the Urho3D Engine, which is the engine that Cyberix3D will be built on: https://drive.google.com/file/d/1iYF743XmjE3xtIZHiphB09kVyFbJtnyz/view?usp=sharing.  The file also contains a **Visual Studios Community** project file.  Here is the link to download **Visual Studios Community** https://www.visualstudio.com/downloads
-Here is how you install the engine.
+this is how you install the engine.
  * Step 1: click on the **visual studios link** and download "**Visual Studios Community**" not the other ones.  Also you need to install with **Visual Studios**, **ALT**, and **Visual C++**.
  
  * Step 2: Click on the google drive link to download the engine.
@@ -26,11 +26,11 @@ Here is how you install the engine.
 ## Cyberix3D website
 Website: www.Cyberix3D.com or www.gamemaker3d.com
 
-The Cyberix3D website contains the original Adobe Flash Cyberix3D engine and forums, games, blogs, and more!
+The Cyberix3D website contains the original Adobe Flash Cyberix3D engine, forums, games, blogs, and more!
 ## Cyberix3D Wiki
 Wiki: http://wiki.gamemaker3d.com (Open Source)
 
-The Cyberix3D wiki helps you learn how to use the Cyberix3D engine (Adobe Flash Version).  This wiki is also open source so you can help build the Cyberix3D Wiki.
+The Cyberix3D wiki helps you learn how to use the Cyberix3D engine **(Adobe Flash Version)**.  This wiki is also open source so you can help build the Cyberix3D Wiki.
 ## Examples
 ###### (Currently No Examples Available)
 -
