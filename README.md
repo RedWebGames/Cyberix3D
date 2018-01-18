@@ -14,13 +14,13 @@ https://github.com/cyberix3d/Cyberix3D/wiki
 ## Download
 Here's the download link for the Urho3D Engine, which is the engine that Cyberix3D will be built on: https://drive.google.com/file/d/1iYF743XmjE3xtIZHiphB09kVyFbJtnyz/view?usp=sharing.  The file also contains a **Visual Studios Community** project file.  Here is the link to download **Visual Studios Community** https://www.visualstudio.com/downloads
 this is how you install the engine.
- * Step 1: click on the **visual studios link** and download "**Visual Studios Community**" not the other ones.  Also you need to install with **Visual Studios**, **ALT**, and **Visual C++**.
+ * **Step 1:** click on the **visual studios link** and download "**Visual Studios Community**" not the other ones.  Also you need to install with **Visual Studios**, **ALT**, and **Visual C++**.
  
- * Step 2: Click on the google drive link to download the engine.
- * step 3: Unzip the engine to C: (you can unzip anywhere you want but we will be using C:)
- * step 4: Go to c:\Urho3D-1_7-Cyberix3D\vs2017\Urho3D.sln and open "Urho3D.sln" in Visual Studios, the project will be a icon instead of ".sln" if you have **Visual Studios Community** already installed.
+ * **Step 2:** Click on the google drive link to download the engine.
+ * **step 3:** Unzip the engine to C: (you can unzip anywhere you want but we will be using C:)
+ * **step 4:** Go to c:\Urho3D-1_7-Cyberix3D\vs2017\Urho3D.sln and open "Urho3D.sln" in Visual Studios, the project will be a icon instead of ".sln" if you have **Visual Studios Community** already installed.
  
- * step 5: Select the startup project from one of the examples on the right side by pressing right click + set as startup project then click "F5" to run the projects.
+ * **step 5:** Select the startup project from one of the examples on the right side by pressing right click + set as startup project then click "F5" to run the projects.
  
  When we finish the engine core we will post it on our branch, but for now you can use the Urho3D engine or our original adobe flash [Cyberix3D engine](www.gamemaker3d.com).
 ## Cyberix3D website
