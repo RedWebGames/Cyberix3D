@@ -1,7 +1,16 @@
 ![Cyberix3D logo](https://github.com/RedWebGames/Cyberix3D/blob/RedWebGames-patch-1/Cyberix3D2.0Logo.png)
 # Cyberix3D- 3D Game Maker 
 ###### (RedWebGames patch)
-Cyberix3D is a Open Source HTML5 3D Game Engine built off the [Urho3D Game Engine](https://urho3d.github.io/).
+The Cyberix3D Game Maker is an online tool for creating 3D and 2D games for the web, mobile, and desktop. The current technology of the Cyberix3D Engine is Flash Player and we have created this Github repository for creating a new version of the Cyberix3D Engine that will support HTML5 instead of Flash and also support desktop and mobile versions.
+
+The Cyberix3D Engine will take an XML file and run it as a game.
+The XML can be generated through any text editor or through a graphics editor with a user-friendly GUI.
+
+You can follow the Cyberix3D projects here:
+https://github.com/cyberix3d/Cyberix3D/projects
+
+And see the features list and roadmap here:
+https://github.com/cyberix3d/Cyberix3D/wiki
 ## Download
 Here's the download link for the Urho3D Engine, which is the engine that Cyberix3D will be built on: https://drive.google.com/file/d/1iYF743XmjE3xtIZHiphB09kVyFbJtnyz/view?usp=sharing.  The file also contains a **Visual Studios Community** project file.  Here is the link to download **Visual Studios Community** https://www.visualstudio.com/downloads
 Here is how you install the engine.
